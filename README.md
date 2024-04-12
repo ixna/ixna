@@ -11,13 +11,14 @@
 <h3>Programming Language</h3>
 <p>
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-0095D5?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-%230077B5?style=flat-square&logo=python&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-E34F26?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ixna&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixna&layout=compact&count_private=true)](https://github.com/ixna/github-readme-stats)
 
 
